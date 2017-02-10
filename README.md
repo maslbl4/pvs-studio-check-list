@@ -135,3 +135,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://restsharp.org/
 	- https://github.com/restsharp/RestSharp
 
+- Fluent.Ribbon
+	- WPF Ribbon control like in Office 2010, 2013 and Windows 8
+	- http://fluentribbon.github.io
+	- https://github.com/fluentribbon/Fluent.Ribbon
+
